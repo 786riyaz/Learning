@@ -1,0 +1,6 @@
+Jest
+ESLint
+Selenium
+sonarQube
+FindBugs
+Checkstyle

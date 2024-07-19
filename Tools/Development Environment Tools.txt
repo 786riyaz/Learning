@@ -1,0 +1,7 @@
+VS Code
+Visual Studio
+Intellij IDEA
+Notepad++
+Vim
+PyCharm
+Jupyter Notebook

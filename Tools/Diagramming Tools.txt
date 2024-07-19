@@ -1,0 +1,7 @@
+draw.io
+excalidraw
+mindmap
+Mermaid
+PlantUML
+Microsoft Visio
+Miro
