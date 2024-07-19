@@ -1,0 +1,9 @@
+Digital Logic Design 
+		Dilip Kumar 
+		J.S. Katre
+	
+Fundamental of Digital Electronics
+
+C Programming
+		Chintan Dave
+		Mahajan Publication
