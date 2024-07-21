@@ -1,0 +1,72 @@
+==========================
+Web development
+--------------------------
+HTML
+CSS
+JavaScript
+SQL
+PHP
+
+=========================
+Mobile App development
+-------------------------
+Koltin
+Swift
+JavaScript
+Java
+Dart
+
+=========================
+Game Development
+-------------------------
+C#
+C++
+JavaScript
+Java
+
+=========================
+Artificial Intelligence
+------------------------
+Python
+C++
+Java
+R
+
+
+=========================
+Hacking & CyberSecurity
+-------------------------
+Python
+C++
+PHP
+SQL
+Javacript
+
+=========================
+Data Science
+-------------------------
+Python
+R
+JavaScript
+SQL
+MATLAB
+
+=========================
+Embedded Systems
+-------------------------
+C
+C++
+Python
+Arduino
+Assembly
+
+=========================
+Blocked development
+------------------------
+C++
+C#
+Go
+Java
+Python
+
+
