@@ -1,0 +1,33 @@
+Websites==============================================
+w3schools.com
+geeksforgeeks.org
+programiz.com
+studytonight.com
+javatpoint.com
+freecodecamp.org
+sololearn.com
+inprogrammer.com
+tutorialspoint.com
+
+Coding Practice==============================================
+hackerrank.com
+topcoder.com
+codechef.com
+coderbyte.com
+leetcode.com
+hackerearch.com
+exercism.io
+
+MCQ Practice==============================================
+geeksforgeeks.org
+examveda.com
+cppbuzz.com
+sanfoundry.com
+indiabix.com
+avatto.com
+
+Application==============================================
+Sololearn
+ProgrammingHub
+Grasshopper
+Mimo
