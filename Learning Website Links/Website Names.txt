@@ -1,0 +1,7 @@
+HTML        html.com
+CSS         css-tricks.com
+JS          jsv9000.app
+DSA         algorithm-visulizer.org
+GitHub      learngitbranching.js.org
+React       react-tutorial.app
+API         rapidapi.com/learn
