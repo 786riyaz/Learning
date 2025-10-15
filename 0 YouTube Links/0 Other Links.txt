@@ -1,0 +1,21 @@
+### Other
+- Tailwind CSS — Playlist
+https://www.youtube.com/playlist?list=PL8p2I9GklV471sLqkGuf0eKAu9sVNmKFV
+
+- QR Code Generator — Using HTML, CSS & JavaScript | Hindi Tutorial
+https://www.youtube.com/watch?v=rVPHr8ThkDc
+
+- NeetCode 150 Course — All Coding Interview Questions Solved
+https://www.youtube.com/watch?v=T0u5nwSA0w0
+
+14 DevTools Tricks That`ll Make You a Better Developer
+https://www.youtube.com/watch?v=pw14NzfYPa8
+
+ServiceNow Portal Tutorial: Fetch & Show REST API Data in a Widget (With Cards UI + Modal Popup)
+https://www.youtube.com/watch?v=D290-7uiCq8
+
+ServiceNow Portal Tutorial: Fetch & Show REST API Data in a Widget (With Cards UI + Modal Popup)
+https://www.youtube.com/watch?v=Lm0VU8Uewm8
+
+Next.js 15 Full-Stack Course For Beginners (12 Apps in 37 Hours | 2025)
+https://www.youtube.com/watch?v=cso7-4oAPNQ

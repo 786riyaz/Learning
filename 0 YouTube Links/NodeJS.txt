@@ -1,0 +1,35 @@
+- Node.js Tutorial in Hindi #1 — Introduction | What is Node.js
+https://www.youtube.com/watch?v=_P4hnzTnK64&list=PL8p2I9GklV47KZEsbFEfRcM0sUsOMe5Sp
+
+🚀🔥 Lecture 1: Introduction to NodeJS | NodeJS Complete Course ❤️ in Hindi | Notes | Certification
+https://www.youtube.com/watch?v=AZzV3wZCvI4&list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3
+
+- Node.js Complete Tutorial in Hindi — Full Node Course in One Video
+https://www.youtube.com/watch?v=VrQgmNY96wo
+
+- Node.js in Hindi #1 — What is Node | Introduction
+https://www.youtube.com/watch?v=zaLfOjNEOaQ&list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At&index=1
+
+- Node.js and Express.js — Full Course
+https://www.youtube.com/watch?v=Oe421EPjeBE&t=13229s
+
+- Node.js Masterclass — Build Real Projects with FS, HTTP, Streams & More
+https://www.youtube.com/watch?v=TIxK0ZkkTII&t=1s
+
+- Generative AI with Node.js in Hindi #1 — Introduction & Complete Developer Roadmap
+https://www.youtube.com/watch?v=mRvVlTBGCgc&list=PL8p2I9GklV46H-5TWACKJiQ6YR2qHFvSu
+
+- Generative AI with Node.js in Hindi #12 — Generate Text from Audio with UI
+https://www.youtube.com/watch?v=iyRTJULp8UA
+
+- Introduction to Node.js — Linux Foundation LFW111x
+https://trainingportal.linuxfoundation.org/learn/course/introduction-to-nodejs-lfw111x/introduction/course-information?page=1
+
+Demo and setup Node js Online Restaurant project | Node js Project | master node js 2024
+https://www.youtube.com/watch?v=3rjYFy_4EBI&list=PLuHGmgpyHfRwUUA1Bi8z07mxaWVuhpAgH
+
+🚀🔥 Lecture 1: Introduction to NodeJS | NodeJS Complete Course ❤️ in Hindi | Notes | Certification
+https://www.youtube.com/watch?v=AZzV3wZCvI4&list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3
+
+Scaling your Node.js app using the "cluster" module
+https://www.youtube.com/watch?v=6lHvks6R6cI

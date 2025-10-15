@@ -1,0 +1,5 @@
+- DevOps Full Course for Beginners 2025 — Git, Docker, CI/CD, AWS, Kubernetes | Part 1
+https://www.youtube.com/watch?v=Tq0vZU7Hp_M
+
+- DevOps Full Course — Build and Deploy a Scalable Production-Ready API
+https://www.youtube.com/watch?v=H5FAxTBuNM8

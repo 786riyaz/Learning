@@ -1,0 +1,36 @@
+- MERN Stack Tutorial (2023) — 12-Hour Node.js, Express, MongoDB in Hindi
+https://www.youtube.com/watch?v=ChVE-JbtYbM&list=PL2PkZdv6p7Zmu51_FBoNDcv8Bk8bXODvH
+
+- YouTube Clone — Full Stack Project with MERN in Hindi | Day 1
+https://www.youtube.com/watch?v=tGXSsOnm3AI
+
+- YouTube Clone — Play Video Page | MERN in Hindi | Day 19
+https://www.youtube.com/watch?v=P0JJcEjUT34
+
+- Full Stack Web Development (MERN) — Lecture 0 | Introduction
+https://www.youtube.com/watch?v=aL5fHILeAPQ&list=PLgWjD_CBfh0Aa_CNQL-g-0jujZO-1yr7_
+
+- Introduction to MERN Stack — Complete React Course in Hindi #41
+https://www.youtube.com/watch?v=YhJ-lPiCfyc
+
+- Project 3 — iNotebook Backend and React Frontend Setup | Complete React Course in Hindi #42
+https://www.youtube.com/watch?v=kZbaAVJHdZw&list=PLTtZ8XLMT18H7aPMXMgGCSutVk_m2fgLC&index=27
+
+REST API with Node.js express.js and mongoDB in Hindi | Planning & First Steps
+SBS Online Classes
+https://www.youtube.com/watch?v=h8yNJjwijjI&list=PLgWjD_CBfh0ACkCyg5Kjk0mh2Mcc-sZa3
+
+- REST API with Node.js, Express.js and MongoDB in Hindi — Planning & First Steps
+https://www.youtube.com/watch?v=h8yNJjwijjI&list=PLgWjD_CBfh0ACkCyg5Kjk0mh2Mcc-sZa3
+
+- Master REST APIs — Beginner’s Guide (Node.js, Express, MongoDB, Mongoose) — Hindi
+https://www.youtube.com/watch?v=6SJQ5eOChrA
+
+- Backend Development Full Course — In 6 Hours (MongoDB, Express.js, Node.js) | 2025 Edition
+https://www.youtube.com/watch?v=vfaRzV3P92o
+
+Node JS REST API Tutorial in HINDI | node js, express.js and mongoDB 🔥🔥
+https://www.youtube.com/watch?v=5gr_n262JJ0&list=PLgWjD_CBfh0CZykPBiwMv-03OqbTEw0Wx
+
+Introduction to MERN stack | Complete React Course in Hindi #41
+https://www.youtube.com/watch?v=YhJ-lPiCfyc&list=PLTtZ8XLMT18H7aPMXMgGCSutVk_m2fgLC&index=1
