@@ -1,7 +1,0 @@
-What is Lifting State up in React ?
-What is React Contect ?
-What are different ways of adding CSS in react ?
-What is Hot Module Replacement ?
-What is use of Parcel, Vite and webpack ?
-What is Tree Shaking ?
-Difference between devDependency and dependency
