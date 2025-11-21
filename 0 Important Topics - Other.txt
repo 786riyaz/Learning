@@ -1,0 +1,9 @@
+REST vs GraphQL
+API rate limiting and throttling
+JSON Web Tokens (JWT)
+CORS and security headers
+CI/CD best practices
+Microservices vs Monolith
+Environment-based deployments (dev, staging, prod)
+Monitoring and logging (ELK, CloudWatch)
+Version control (Git basics)
