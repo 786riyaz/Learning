@@ -1,0 +1,88 @@
+Installing Linux on your PC is quite straightforward! Here’s a **step-by-step beginner-friendly guide** 👇
+
+---
+
+### 🧩 **1. Choose a Linux Distribution**
+
+Pick a version (called a *distro*) based on your needs:
+
+* **Ubuntu** → Easiest for beginners, great community support
+* **Linux Mint** → Very user-friendly, looks like Windows
+* **Pop!_OS** → Great for developers and gaming
+* **Fedora** → Cutting-edge and stable
+* **Debian** → Stable, used for servers
+
+👉 For your first time, I recommend **Ubuntu** or **Linux Mint**.
+
+---
+
+### 💾 **2. Download the ISO File**
+
+Go to the official website and download the ISO file:
+
+* [Ubuntu Download](https://ubuntu.com/download)
+* [Linux Mint Download](https://linuxmint.com/download.php)
+
+The `.iso` file is a disk image of the operating system.
+
+---
+
+### 🔥 **3. Create a Bootable USB Drive**
+
+You’ll need:
+
+* A **USB drive (at least 8GB)**
+* A tool like:
+
+  * **Rufus** (Windows) → [https://rufus.ie](https://rufus.ie)
+  * **BalenaEtcher** (Windows/macOS/Linux) → [https://etcher.io](https://etcher.io)
+
+**Steps using Rufus:**
+
+1. Plug in your USB drive.
+2. Open Rufus.
+3. Under *Boot selection*, choose the Linux ISO file.
+4. Click **Start** → it will erase the USB and make it bootable.
+
+---
+
+### ⚙️ **4. Boot from the USB**
+
+1. Restart your computer.
+2. Enter the **boot menu**:
+
+   * Usually by pressing **F12**, **Esc**, **F2**, or **Del** right after turning it on.
+3. Select your USB drive to boot from it.
+
+---
+
+### 💡 **5. Try or Install Linux**
+
+You’ll see an option:
+
+* **Try Linux** → Run it without installing (safe to test)
+* **Install Linux** → Permanently install it on your PC
+
+If you choose to install:
+
+1. Follow the on-screen steps.
+2. Choose:
+
+   * “Install alongside Windows” → for dual boot
+   * “Erase disk and install Linux” → removes everything
+3. Set your **username, password**, and **timezone**.
+4. Wait for installation to finish, then remove the USB and reboot.
+
+---
+
+### 🚀 **6. After Installation**
+
+* Linux will start up!
+* Update your system:
+
+  ```bash
+  sudo apt update && sudo apt upgrade -y
+  ```
+* Explore the **Software Center** to install apps (like Chrome, VS Code, etc.).
+
+---
